@@ -107,4 +107,5 @@ company_main_business,
 foreign_investors_shareholding:全體外資及陸資持股比率,
 single_stock_futures_and_equity_options_underlying,
 etl:market_value,
+cb_published_info,
 etl:full_cash_delivery_stock_filter
